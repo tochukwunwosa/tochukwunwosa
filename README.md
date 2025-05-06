@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tochukwunwosa
-- 👀 I’m interested: Making our community safer and cleaner through utlizing proper waste management (still a dream)
-- 🌱 I’m currently learning: Nestjs
+- 👋 Hi, I’m Tochukwu Nwosa
+- 👀 I’m interested: Using technology to reduce workload and make life easier for people.
+- 🌱 I’m currently working on [ClaimMate](https://claimmate.vercel.app)
 - 💞️ I’m looking to collaborate on: fullstack (Nodejs, Express, Reactjs, Next.js, Typescript) projects
 - 📫 How to reach me: tochukwunwosa28@gnmail.com
 - 😄 Pronouns: he/him
