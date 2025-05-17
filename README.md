@@ -3,7 +3,7 @@
 - 👀 I’m interested: Using technology to reduce workload and make life easier for people.
 - 🌱 I’m currently working on ClaimMate; an AI powered claim drafting software &nbsp; [GiHub repo](https://github.com/tochukwunwosa/claimMate)   &nbsp; &nbsp;  [Live preview](https://claimmate.vercel.app).
 - 💞️ I’m looking to collaborate on: fullstack (Nodejs, Express, Reactjs, Next.js, Typescript) projects
-- 📫 How to reach me: tochukwunwosa28@gnmail.com
+- 📫 How to reach me: tochukwunwosa28@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like SciFi movies
 
